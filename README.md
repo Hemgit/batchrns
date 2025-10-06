@@ -1,2 +1,2 @@
 # batchrns
-rns test
+rns test for demo
