@@ -1,4 +1,3 @@
-this is docker file
-test line
-third line
-this change is from github
+from rnsimage:v1
+maintainer rns <rns@gmail>
+run yum install wget -y 
