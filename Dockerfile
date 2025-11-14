@@ -30,3 +30,5 @@ RUN sed -i \
 
 RUN yum clean all && yum makecache && yum -y update && yum clean all
 RUN yum install wget -y
+cmd echo "hell this is cmd statement"
+entrypoint echo " Hello tis is entrypoint cmd"
